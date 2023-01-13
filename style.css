@@ -416,12 +416,14 @@ body{
 }
 .burger-menu{
 	display: none;
+	position: relative;
 }
 .block{
 	display: block;
 }
 .burger-slide{
 	position: absolute;
+	left:-40px;
 }
 .burger-slide a{
 	margin:10px 0;
